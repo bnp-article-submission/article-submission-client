@@ -14,7 +14,7 @@
         "scope": "bits-and-pieces.article-submission",
         "version": "0.0.16",
         "mainFile": "index.ts",
-        "rootDir": "article-submission/article-submission-app"
+        "rootDir": "article-submission-app"
     },
     "envs/react-bnp-env": {
         "name": "envs/react-bnp-env",
@@ -28,7 +28,7 @@
         "scope": "bits-and-pieces.article-submission",
         "version": "0.0.14",
         "mainFile": "index.ts",
-        "rootDir": "article-submission/forms/article-submission-form"
+        "rootDir": "forms/article-submission-form"
     },
     "$schema-version": "17.0.0"
 }
