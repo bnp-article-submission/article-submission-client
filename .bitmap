@@ -9,5 +9,26 @@
  */
 
 {
+    "article-submission-app": {
+        "name": "article-submission-app",
+        "scope": "bits-and-pieces.article-submission",
+        "version": "0.0.16",
+        "mainFile": "index.ts",
+        "rootDir": "article-submission/article-submission-app"
+    },
+    "envs/react-bnp-env": {
+        "name": "envs/react-bnp-env",
+        "scope": "bits-and-pieces.dev",
+        "version": "0.0.2",
+        "mainFile": "index.ts",
+        "rootDir": "dev/envs/react-bnp-env"
+    },
+    "forms/article-submission-form": {
+        "name": "forms/article-submission-form",
+        "scope": "bits-and-pieces.article-submission",
+        "version": "0.0.14",
+        "mainFile": "index.ts",
+        "rootDir": "article-submission/forms/article-submission-form"
+    },
     "$schema-version": "17.0.0"
 }
